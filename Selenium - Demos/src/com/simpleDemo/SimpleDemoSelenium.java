@@ -15,7 +15,7 @@ public class SimpleDemoSelenium {
 		WebDriver driver=new ChromeDriver();
 		
 		
-		//firtst commet with impl implecitywait
+		//firtst commet with impl implecitywaita
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
 		driver.manage().window().maximize();
