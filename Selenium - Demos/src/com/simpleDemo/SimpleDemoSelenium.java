@@ -25,6 +25,8 @@ public class SimpleDemoSelenium {
 		Thread.sleep(2000);
 		driver.close();
 		
+		System.out.println("Check ");
+		
 		
 
 	}
